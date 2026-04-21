@@ -26,4 +26,4 @@ Describe how you would automate this using Selenium or cypress
 One way i would automate this is if there is a email and password filed i will write a program that will validate I & M email then use locators to identify the fileds
 the locators that i may use here can either be the ID, Name, xpath or css selector depending on the locators i will get. 
 Also i will write an assertion to check the welcome message after successul login. so in short selenium will be the best tool since i will have to check the locators
-for both the email password and login then use POM(PAGE OBJECT MODEL) to distinguish the various pages. The goal here would be to automate repetitive tasks first.
+for both the email password and login then use POM(PAGE OBJECT MODEL) to distinguish the various pages. Also i will create a JSON file that will read the username and password.The goal here would be to automate repetitive tasks first.
